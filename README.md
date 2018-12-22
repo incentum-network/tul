@@ -1,2 +1,2 @@
-# sstl
-Shared Source Token License
+# Source Code Token License
+
