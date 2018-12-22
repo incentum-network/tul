@@ -1,6 +1,16 @@
 ## Token Use License
 
-### Definitions
+### Preamble
+
+The open source landscape is changing rapidly, with more companies adopting a more restricted form of open source licensing. This is due to the fact that large cloud companies sell cloud based versions of popular open source software without giving anything to the community, or worse, competing directly with paid versions of open source offered by the community.
+
+For example, the Commons Clause has been adopted by several open source companies to restrict commercial use of open source software. The Commons Clause is useful for many cases, but it is not adequate for projects which use utility tokens as a requirement for the operation of the software. 
+
+This license is designed for projects that would like their software to be open source, but also need to protect and promote the use of a utility token or tokens. It is similar to the Apache 2.0 License, but with additional restrictions on redistribution. Essentialy, two restrictions are added: Derivative Works require *primary and significant functionality* and must abide by a *Token Use Clause* attached to the license.
+
+The *Token Use Clause* describes the definition and requirements for using the utility token(s) included in the licensed work.  
+
+#### 0. Definitions
 * ***License*** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 6 of this document.
 
 * ***Licensor*** shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
