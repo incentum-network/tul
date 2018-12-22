@@ -31,6 +31,13 @@ Subject to the terms of this license and the ***Token Use*** clause, the Licenso
 * The application you integrate with the software adds primary and significant functionality.
 * You abide by the ***Token Use*** clause attached to this license. 
 
+#### Patent Grant for Distribution
+
+Subject to the terms of this license, the Licensor grants you a non-transferable, non-exclusive, worldwide, royalty-free patent license under licensed patents provided:
+
+* The application you integrate with the software adds primary and significant functionality.
+* You abide by the ***Token Use*** clause attached to this license. 
+
 ### Limitations
 
 #### No Trademark License
