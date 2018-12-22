@@ -1,4 +1,4 @@
-## Token Use License
+## Token Use License Version 1.0
 
 ### Preamble
 
