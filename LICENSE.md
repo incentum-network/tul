@@ -16,11 +16,11 @@ This license governs use of the accompanying software. If you use the software, 
 
 ### Grant of Rights
 
-#### Copyright Grant
+#### Copyright Grant for Reference Use
 
 Subject to the terms of this license, the Licensor grants you a non-transferable, non-exclusive, worldwide, royalty-free copyright license to reproduce the software for reference use.
 
-#### Patent Grant
+#### Patent Grant for Reference Use
 
 Subject to the terms of this license, the Licensor grants you a non-transferable, non-exclusive, worldwide, royalty-free patent license under licensed patents for reference use.
 
