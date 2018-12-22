@@ -3,14 +3,10 @@
 This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
 
 1. Definitions
-
- The terms *reproduce*, *reproduction*, and *distribution* have the same meaning here as under U.S. copyright law.
-
- *You* means the licensee of the software.
-
- *Your company* means the company you worked for when you downloaded the software.
-
- *Reference use* means use of the software within your company as a reference, in read only form, for the sole purposes of debugging your products, maintaining your products, or enhancing the interoperability of your products with the software, and specifically excludes the right to distribute the software outside of your company.
+  The terms *reproduce*, *reproduction*, and *distribution* have the same meaning here as under U.S. copyright law.
+  *You* means the licensee of the software.
+  *Your company* means the company you worked for when you downloaded the software.
+  *Reference use* means use of the software within your company as a reference, in read only form, for the sole purposes of     debugging your products, maintaining your products, or enhancing the interoperability of your products with the software,     and specifically excludes the right to distribute the software outside of your company.
 
 *Licensed patents* means any Licensor patent claims which read directly on the software as distributed by the Licensor under this license.
 
