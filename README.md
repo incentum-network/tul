@@ -1,2 +1,2 @@
-# Source Code Token License
+# Token Use License
 
