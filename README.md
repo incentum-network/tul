@@ -1,6 +1,6 @@
 # Token Use License
 
-The open source landscape is changing rapidly, with more companies adopting a more restricted form of open source licensing. This is due to the fact that large cloud computing companies sell cloud based versions of popular open source software without giving anything to the community, or worse, competing directly with paid versions of open source offered by the community. For example, the Commons Clause has been adopted by several open source companies to restrict commercial use of open source software. 
+The open source landscape is changing rapidly, with more companies adopting a more restricted form of open source licensing. This is due to the fact that large cloud computing companies sell cloud based versions of popular open source software without giving anything to the community, or worse, competing directly with paid versions of open source offered by the community. For example, the [Commons Clause](https://commonsclause.com) has been adopted by several open source companies to restrict commercial use of open source software. 
 
 Projects that use utility tokens as a *currency* to pay for a service present a new and unique model for software developers. But there are still competing requirements:
 
