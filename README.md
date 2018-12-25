@@ -5,7 +5,7 @@ The open source landscape is changing rapidly, with more companies adopting a mo
 Projects that use utility tokens as a *currency* to pay for a service present a new and unique model for software developers. However, there are still competing licensing requirements:
 
 1. The license should encourage an open community that is using, enhancing, promoting, and distributing the licensed work.
-1. The license must protect and promote the use of your utility token(s).
+1. The license must protect and promote the use of the utility token(s).
 2. The license must be simple enough to understand and implement.
 
 The Token Use License is designed to satisfy all of these criteria. It is similar to the Apache 2.0 License, but with additional restrictions on redistribution. Essentialy, two restrictions are added: Derivative Works require *primary and significant functionality* and must abide by a *Token Use Clause* attached to the license.
