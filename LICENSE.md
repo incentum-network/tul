@@ -10,7 +10,7 @@ Projects that require utility tokens to access a service present a new and uniqu
 1. The license must protect and promote the use of the utility token(s).
 2. The license must be simple enough to understand and implement.
 
-The Token Use License is designed to satisfy all of these criteria. It is similar to the Apache 2.0 License, but with additional restrictions on redistribution. Essentialy, two restrictions are added: Derivative Works require *primary and significant functionality* and must abide by a *Token Use Clause* attached to the license.
+The Token Use License is designed to satisfy all of these criteria. It is similar to the Apache 2.0 License, but with an additional restriction on redistribution - Derivative Works must abide by a *Token Use Clause* attached to the license.
 
 The *Token Use Clause* describes the definition and requirements for using the utility token(s) included in the licensed work. Usually, using the same token(s) in the same manner as the licensed work will be sufficient for most *Token Use Clauses*, but it is split out into a separate file for cases that might be more complex. We recommend using the name *TUC.md* or *TUC.txt* for the *Token Use Clause*.
 
@@ -57,8 +57,6 @@ For Test Use only, and subject to the terms and conditions of this License, each
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form provided:
 
-* The Derivative Work adds primary and significant functionality.
-
 * You abide by the ***Token Use Clause*** attached to this License. 
 
 * You must give any other recipients of the Work or Derivative Works a copy of this License and the Token Use clause.
@@ -73,7 +71,6 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made,use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted, provided:
 
-* The Derivative Work adds primary and significant functionality.
 * You abide by the ***Token Use Clause*** attached to this License. 
 
 #### 5. Submission of Contributions
