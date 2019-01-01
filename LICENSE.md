@@ -16,6 +16,8 @@ The *Token Use Clause* describes the definition and requirements for using the u
 
 Note that this license is not intended to prohibit the use of other utility tokens as a part of a Derivative Work. A good use case for this license is for core components that Derivative Works are built upon. For example a Smart Contract component that could be used in multiple blockchain platforms is a good target. Gas denoted with a utility token is used to pay for the execution of the Smart Contracts in the original licensed work. The *Token Use Clause* for this Smart Contracts component would stipulate that the same utility token be used to pay gas in the Derivative Work.
 
+We have also added a separate copyright and patent grant for ***Test Use***. This is to allow testing of the Work and Derivative Works.
+
 #### 0. Definitions
 * ***License*** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 6 of this document.
 
@@ -35,7 +37,7 @@ Note that this license is not intended to prohibit the use of other utility toke
 
 * ***Derivative Works*** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
 
-* ***Test Use*** means use of the software within your company as a reference, in read only form, for the sole purposes of testing or evaluating the Work.
+* ***Test Use*** means use of the software for the sole purposes of testing or evaluating the Work and Derivative Works.
 
 * ***Licensed patents*** means any Licensor patent claims which read directly on the software as distributed by the Licensor under this License.
 
