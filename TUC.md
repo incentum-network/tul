@@ -1,4 +1,4 @@
-### Token Use Clause for Praxis Smart Contracts, Praxis, and Incentum Components
+### Token Use Clause
 
 1. If you distribute or utilize a licensed Work:
    1. The Work must be using the official PRAX token, or
