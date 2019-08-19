@@ -14,8 +14,6 @@ The Token Use License is designed to satisfy all of these criteria. It is simila
 
 The *Token Use Clause* describes the definition and requirements for using the utility token(s) included in the licensed work. Usually, using the same token(s) in the same manner as the licensed work will be sufficient for most *Token Use Clauses*, but it is split out into a separate file for cases that might be more complex. We recommend using the name *TUC.md* or *TUC.txt* for the *Token Use Clause*.
 
-We have also added a separate copyright and patent grant for ***Test Use***. This is to allow testing of the Work and Derivative Works.
-
 #### 0. Definitions
 * ***License*** shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 6 of this document.
 
