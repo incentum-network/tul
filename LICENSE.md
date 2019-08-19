@@ -10,7 +10,7 @@ Projects that require utility tokens to access a service present a new and uniqu
 1. The license must protect and promote the use of the utility token(s).
 2. The license must be simple enough to understand and implement.
 
-The Token Use License is designed to satisfy all of these criteria. It is similar to the Apache 2.0 License, but with an additional restriction on redistribution - Derivative Works must abide by a *Token Use Clause* attached to the license.
+The Token Use License is designed to satisfy all of these criteria. It is similar to the Apache 2.0 License, but with additional restrictions that are specified in the Token Use Clause attached to the license.
 
 The *Token Use Clause* describes the definition and requirements for using the utility token(s) included in the licensed work. Usually, using the same token(s) in the same manner as the licensed work will be sufficient for most *Token Use Clauses*, but it is split out into a separate file for cases that might be more complex. We recommend using the name *TUC.md* or *TUC.txt* for the *Token Use Clause*.
 
@@ -33,7 +33,7 @@ We have also added a separate copyright and patent grant for ***Test Use***. Thi
 
 * ***Work*** shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work.
 
-* ***Derivative Works*** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+* ***Derivative Works*** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
 
 * ***Test Use*** means use of the software for the sole purposes of testing or evaluating the Work and Derivative Works.
 
@@ -43,7 +43,7 @@ We have also added a separate copyright and patent grant for ***Test Use***. Thi
 
 * ***Contributor*** shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-* ***Token Use Clause*** are additional terms and conditions that require the use of one or more tokens in the operation of the Derivative Work. The nature and description of the token or tokens will be defined in the Token Use Clause.
+* ***Token Use Clause*** are additional terms and conditions that require the use of one or more tokens in the operation of the Work or Derivative Work. The nature and description of the token or tokens will be defined in the Token Use Clause.
 
 #### 1. Copyright Grant for Test Use
 
@@ -59,7 +59,7 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 * You abide by the ***Token Use Clause*** attached to this License. 
 
-* You must give any other recipients of the Work or Derivative Works a copy of this License and the Token Use clause.
+* You must give any other recipients of the Work or Derivative Works a copy of this License and the Token Use Clause.
 
 * You must cause any modified files to carry prominent notices stating that You changed the files; and
 
