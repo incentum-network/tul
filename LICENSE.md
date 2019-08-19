@@ -35,7 +35,7 @@ We have also added a separate copyright and patent grant for ***Test Use***. Thi
 
 * ***Derivative Works*** shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
 
-* ***Test Use*** means use of the software for the sole purposes of testing or evaluating the Work and Derivative Works.
+* ***Test Use*** means use of the software for the sole purposes of testing or evaluating the Work or Derivative Works.
 
 * ***Licensed patents*** means any Licensor patent claims which read directly on the software as distributed by the Licensor under this License.
 
