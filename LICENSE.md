@@ -47,7 +47,7 @@ Subject to the terms and conditions of this License, each Contributor hereby gra
 
 * You abide by the ***Token Use Clause*** included with this license (in file TUC.md). 
 
-* You must give any other recipients of the Work or Derivative Works a copy of this License and the Token Use Clause.
+* The Work and any Derivative Work must be distributed under the terms of this License, including the Token Use Clause. You must give any other recipients of the Work or Derivative Works a copy of this License and the Token Use Clause.
 
 * You must cause any modified files to carry prominent notices stating that You changed the files; and
 
