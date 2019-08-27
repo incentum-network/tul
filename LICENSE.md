@@ -1,4 +1,4 @@
-Copyright &copy; 2019 Incentum Ltd.
+Copyright &copy; 2018-2019 Incentum Ltd.
 
 ## Token Use License Version 1.0
 
